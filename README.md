@@ -30,7 +30,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 - Model Building & training on the rectified class imbalance data
 - Dataset visualisation
   
-### Analysis & conclusion:
+
 
 ## Contact:
 Created by Shamseena VM https://github.com/shamsi123
